@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cli": "./node_modules/.bin/cypress-slack-reporter-full"
+    "cli": "./node_modules/.bin/cypress-slack-reporter"
   },
   "author": "",
   "license": "ISC",
