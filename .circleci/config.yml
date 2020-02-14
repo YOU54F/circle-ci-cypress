@@ -27,6 +27,8 @@ jobs:
           path: cypress/reports
       - store_artifacts:
           path: cypress/videos
+      - store_artifacts:
+          path: mochawesome-report
  
 workflows:
   build-test:
