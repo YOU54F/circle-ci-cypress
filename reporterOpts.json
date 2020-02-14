@@ -4,7 +4,7 @@
       "reportDir": "cypress/reports/mochawesome-report",
       "quiet": false,
       "overwrite": false,
-      "html": true,
+      "html": false,
       "json": true
     }
   }
